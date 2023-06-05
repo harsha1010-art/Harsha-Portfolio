@@ -17,7 +17,7 @@ export const Contact = () => {
         "service_3tztab4",
         "template_k067u4h",
         form.current,
-        "IgNorAmfeGYxJiLjX"
+        "GhGeu74o-Lw97IxSb"
       )
       .then(
         (result) => {
