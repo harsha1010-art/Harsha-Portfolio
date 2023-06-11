@@ -63,7 +63,7 @@ development which provides me a platform to present my
 theoretical and practical knowledge and develop my experimental
 and research skills and extend myself to higher work in the field of
 my technical interests.</p>
-                 <a href="https://mail.google.com/mail/u/0/#inbox"> <button  onClick={() => console.log('connect')}>Let's Connect <ArrowRightCircle size={25} /></button></a> 
+                 <a href="#connect"> <button  onClick={() => console.log('connect')}>Let's Connect <ArrowRightCircle size={25} /></button></a> 
               </div>}
             </TrackVisibility>
           </Col>

@@ -54,9 +54,9 @@ export const NavBar = () => {
                 <a href="https://github.com/harsha1010-art"><img src={navIcon2} alt="" /></a>
                 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshasrinivas1010@gmail.com"><img src={navIcon3} alt="" /></a>
               </div>
-              <HashLink to='#connect'>
-                <button className="vvd"><span>Let’s Connect</span></button>
-              </HashLink>
+
+              <a href="https://drive.google.com/file/d/16BNgj4zfFQHvWoXYulQo8EzZeiYJ9n4b/view?usp=sharing"> <button className="vvd"><span>Resume</span></button></a>
+
             </span>
           </Navbar.Collapse>
         </Container>
